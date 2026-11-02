@@ -1,5 +1,3 @@
-# Calc.js
-
 Calculadora feita com **HTML, CSS e JavaScript puro**, com teclado na tela, digitação pelo teclado, botão para copiar o resultado e alternância entre tema claro e escuro.
 
 🔗 **Demo:** [evssousa.github.io/calc-js](https://evssousa.github.io/calc-js/)
