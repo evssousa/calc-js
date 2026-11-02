@@ -73,9 +73,5 @@ Depois, abra o `index.html` no navegador (duplo clique no arquivo ou, no VS Code
 - Histórico das últimas contas
 - Avisos de acessibilidade (`aria-label` nos botões)
 
-## Autor
-
-Feito por **Everson Sousa**
-
 [![GitHub](https://img.shields.io/badge/GitHub-evssousa-181717?logo=github&logoColor=white)](https://github.com/evssousa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-evssousa-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/evssousa)
